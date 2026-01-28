@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-strided-int8array2d",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert a Node-API value representing a two-dimensional strided array to a signed 8-bit integer array.",
   "license": "Apache-2.0",
   "author": {
@@ -42,7 +42,7 @@
     "@stdlib/assert-napi-status-ok": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-int8array": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-filled": "^0.2.1",
@@ -83,11 +83,6 @@
     "ndarray",
     "matrix"
   ],
-  "__stdlib__": {
-    "envs": {
-      "browser": false
-    }
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"

@@ -319,8 +319,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/napi-argv-strided-int8array2d.svg
 [npm-url]: https://npmjs.org/package/@stdlib/napi-argv-strided-int8array2d
 
-[test-image]: https://github.com/stdlib-js/napi-argv-strided-int8array2d/actions/workflows/test.yml/badge.svg?branch=v0.1.1
-[test-url]: https://github.com/stdlib-js/napi-argv-strided-int8array2d/actions/workflows/test.yml?query=branch:v0.1.1
+[test-image]: https://github.com/stdlib-js/napi-argv-strided-int8array2d/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/napi-argv-strided-int8array2d/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/napi-argv-strided-int8array2d/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/napi-argv-strided-int8array2d?branch=main
